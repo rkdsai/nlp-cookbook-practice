@@ -1,0 +1,40 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+.env
+anaconda_projects/
+
+
+Python-Natural-Language-Processing-Cookbook-Second-Edition/data/GoogleNews-vectors-negative300.bin
+data/*.bin
+data/*.model
+data/*.vec
+data/*.txt
+data/*.zip
+
+
+# ML artifacts
+data/
+models/
+*.joblib
+*.spacy
+
+# Jupyter clutter
+.ipynb_checkpoints/
